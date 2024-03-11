@@ -1,1 +1,3 @@
+Caracteristica editada
+
 Esta caracteristica ha sido elaborada en la rama caracteristica1
